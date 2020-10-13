@@ -20,8 +20,6 @@ and blood glucose values are predicted 0.5 hours ahead using an
 autoregressive second order model.  Alarms are generated for high and
 low values, which can be cleared by any watcher of the data.
 
-
-
 # [#WeAreNotWaiting](https://twitter.com/hashtag/wearenotwaiting?src=hash&vertical=default&f=images) and [this](https://vimeo.com/109767890) is why.
 
 Community maintained fork of the
